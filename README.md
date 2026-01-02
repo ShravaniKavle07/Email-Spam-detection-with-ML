@@ -27,18 +27,12 @@ The project covers the **complete data science lifecycle** — from data preproc
 
 ## 🧠 Machine Learning Workflow
 
-Data Collection
-      ↓
-Text Cleaning & Preprocessing
-      ↓
-TF-IDF Feature Engineering
-      ↓
-Model Training (NB, LR, SVM)
-      ↓
-Model Evaluation
-      ↓
-Final Model Selection
-      ↓
+Data Collection                                                                                       ↓
+Text Cleaning & Preprocessing                                                                         ↓
+TF-IDF Feature Engineering                                                                            ↓
+Model Training (NB, LR, SVM)                                                                          ↓
+Model Evaluation                                                                                      ↓
+Final Model Selection                                                                                 ↓
 Deployment (Streamlit App)
 
 ---
@@ -57,14 +51,7 @@ Deployment (Streamlit App)
 ---
 
 ## 📂 Project Structure
-Email-Spam-Detection/
-│
-├── spam_detection.ipynb # Complete ML pipeline
-├── spam_app.py # Streamlit web application
-├── spam_model.pkl # Trained Linear SVM model
-├── tfidf_vectorizer.pkl # TF-IDF feature transformer
-├── requirements.txt # Project dependencies
-└── README.md # Project documentation
+Email-Spam-Detection/                                                                           │                                                                                             ├── spam_detection.ipynb # Complete ML pipeline                                              ├── spam_app.py # Streamlit web application                                                     ├── spam_model.pkl # Trained Linear SVM model                                                   ├── tfidf_vectorizer.pkl # TF-IDF feature transformer                                           ├── requirements.txt # Project dependencies                                                  └── README.md # Project documentation
 
 
 ---
