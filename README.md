@@ -12,7 +12,7 @@ This project implements an **end-to-end Email Spam Detection system** using **Na
 
 The project covers the **complete data science lifecycle** — from data preprocessing and model training to deployment using a **Streamlit web application**.
 
----
+
 
 ## 🚀 Key Features
 - End-to-end Machine Learning pipeline
@@ -23,19 +23,25 @@ The project covers the **complete data science lifecycle** — from data preproc
 - Interactive Streamlit web application
 - Production-ready model persistence
 
----
+
 
 ## 🧠 Machine Learning Workflow
 
-Data Collection                                                                                       ↓
-Text Cleaning & Preprocessing                                                                         ↓
-TF-IDF Feature Engineering                                                                            ↓
-Model Training (NB, LR, SVM)                                                                          ↓
-Model Evaluation                                                                                      ↓
-Final Model Selection                                                                                 ↓
+Data Collection                                                                                       
+↓
+Text Cleaning & Preprocessing                                                                         
+↓
+TF-IDF Feature Engineering                                                                            
+↓
+Model Training (NB, LR, SVM)                                                                         
+↓
+Model Evaluation                                                                                      
+↓
+Final Model Selection                                                                                
+↓
 Deployment (Streamlit App)
 
----
+
 
 ## 🛠️ Tech Stack & Tools
 
@@ -48,7 +54,7 @@ Deployment (Streamlit App)
 - 📈 Matplotlib, Seaborn  
 - 📦 Joblib  
 
----
+
 
 ## 📂 Project Structure
 Email-Spam-Detection/                                                                           
@@ -61,7 +67,7 @@ Email-Spam-Detection/
 └── README.md # Project documentation
 
 
----
+
 
 ## 📊 Dataset
 - **Source:** UCI / Kaggle SMS Spam Collection Dataset  
@@ -69,7 +75,7 @@ Email-Spam-Detection/
 - **Classes:** Spam, Ham (Not Spam)  
 - **Challenge:** Imbalanced and noisy text data  
 
----
+
 
 ## 🧹 Text Preprocessing
 - Lowercasing
@@ -79,7 +85,7 @@ Email-Spam-Detection/
 
 These steps reduce noise and improve model performance on textual data.
 
----
+
 
 ## ⚙️ Feature Engineering
 - **TF-IDF Vectorization**
@@ -89,7 +95,7 @@ These steps reduce noise and improve model performance on textual data.
 
 TF-IDF helps capture the importance of words across the email corpus.
 
----
+
 
 ## 🤖 Models Trained & Evaluation
 
@@ -109,7 +115,7 @@ TF-IDF helps capture the importance of words across the email corpus.
 - F1-Score
 - Confusion Matrix
 
----
+
 
 ## 🌐 Streamlit Web Application
 The trained model is deployed using **Streamlit**, allowing users to:
@@ -117,7 +123,7 @@ The trained model is deployed using **Streamlit**, allowing users to:
 - Instantly classify emails as Spam or Not Spam
 - View model methodology and explanation
 
----
+
 
 ## ▶️ How to Run the Project Locally
 
@@ -135,7 +141,7 @@ jupyter notebook Email_Spam_Detection_End_to_End.ipynb
 ### 4️⃣ Run Streamlit App
 streamlit run app.py
 
----
+
 📌 Use Cases
 
 Email security systems
@@ -159,7 +165,7 @@ FastAPI backend integration
 
 Cloud deployment (Streamlit Cloud / AWS)
 
----
+
 👤 Author
 
 Shravani Kavle
