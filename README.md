@@ -129,7 +129,7 @@ The trained model is deployed using **Streamlit**, allowing users to:
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/Email-Spam-Detection.git
+git clone https://github.com/ShravaniKavle07/Email-Spam-Detection.git
 cd Email-Spam-Detection 
 
 ### 2️⃣ Install Dependencies
@@ -142,7 +142,7 @@ jupyter notebook Email_Spam_Detection_End_to_End.ipynb
 streamlit run app.py
 
 
-📌 Use Cases
+## 📌 Use Cases
 
 Email security systems
 
@@ -152,8 +152,8 @@ Spam filtering services
 
 NLP-based text classification
 
----
-🔮 Future Enhancements
+
+## 🔮 Future Enhancements
 
 BERT-based deep learning classifier
 
@@ -166,12 +166,12 @@ FastAPI backend integration
 Cloud deployment (Streamlit Cloud / AWS)
 
 
-👤 Author
+## 👤 Author
 
 Shravani Kavle
 Data Science & AI Enthusiast
 
-⭐ Acknowledgements
+## ⭐ Acknowledgements
 UCI Machine Learning Repository
 
 Scikit-learn Documentation
