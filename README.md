@@ -51,7 +51,14 @@ Deployment (Streamlit App)
 ---
 
 ## 📂 Project Structure
-Email-Spam-Detection/                                                                           │                                                                                             ├── spam_detection.ipynb # Complete ML pipeline                                              ├── spam_app.py # Streamlit web application                                                     ├── spam_model.pkl # Trained Linear SVM model                                                   ├── tfidf_vectorizer.pkl # TF-IDF feature transformer                                           ├── requirements.txt # Project dependencies                                                  └── README.md # Project documentation
+Email-Spam-Detection/                                                                           
+│                                                                                            
+├── spam_detection.ipynb # Complete ML pipeline                                              
+├── spam_app.py # Streamlit web application                                                     
+├── spam_model.pkl # Trained Linear SVM model                                                   
+├── tfidf_vectorizer.pkl # TF-IDF feature transformer                                           
+├── requirements.txt # Project dependencies                                                  
+└── README.md # Project documentation
 
 
 ---
